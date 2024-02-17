@@ -13,7 +13,7 @@ Eu sou Fábio Claudino, um desenvolvedor apaixonado por tecnologia e inovação.
 
 Aqui estão alguns dos projetos onde já atuei:
 
-- **Delegacia Virtual**: Projeto voltado para registro de ocorrencias com utilizações de diversas frameworks como Quasar, Laravel, Swagger e Cypress.
+- **DV2**: Projeto voltado para registro de ocorrencias com utilizações de diversas frameworks como Quasar, Laravel, Swagger e Cypress.
 - **ValidaDoc**: Projeto voltado para validação de documentos, com utilizações de diversas frameworks como Quasar, Laravel, Swagger.
 - **Kdaberlinda**: Projeto voltado para gerenciamento de mapa e localização, utilizando api com nodejs e ferramentas como docker.
 - **Intranet**: Projeto voltado para agendamento de visitas, cadastro de pacientes e médicos, utilizando frameworks como Laravel, Vue.
