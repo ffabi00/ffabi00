@@ -34,9 +34,9 @@ Eu sou Fábio Claudino, um desenvolvedor e atualmente, estou trabalhando com PHP
 
 Aqui estão alguns dos projetos onde já atuei:
 
-- **DV2**: Projeto voltado para registro de ocorrencias com utilizações de diversas frameworks como Quasar, Laravel, Swagger e Cypress.
-- **ValidaDoc**: Projeto voltado para validação de documentos, com utilizações de diversas frameworks como Quasar, Laravel, Swagger.
-- **Kdaberlinda**: Projeto voltado para gerenciamento de mapa e localização, utilizando api com nodejs e ferramentas como docker.
+- **Projeto de registro de ocorrencias**: Utilizando de diversas frameworks como Quasar, Laravel, Swagger e Cypress.
+- **Projeto de validação de documentos**: Com utilizações de diversas frameworks como Quasar, Laravel, Swagger.
+- **Projeto de gerenciamento de mapa e localização**: Utilizando api com nodejs e ferramentas como docker.
 - **Intranet**: Projeto voltado para agendamento de visitas, cadastro de pacientes e médicos, utilizando frameworks como Laravel, Vue.
 
 ## 📫 Contato
