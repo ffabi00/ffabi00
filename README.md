@@ -43,7 +43,7 @@ Aqui estão alguns dos projetos onde já atuei:
 
 Sinta-se à vontade para entrar em contato comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fábio-claudino-do-rêgo-313a93145)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fábio-claudino-do-rêgo-313a93145)
 
 
 Obrigado por visitar meu perfil! 😊
